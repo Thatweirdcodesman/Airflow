@@ -18,7 +18,7 @@ c=conn.cursor()
 default_args={
 	'owner':'airflow',
 	'depends_on_past':False,
-	'email':['manofsteelsuperman949@gmail.com'],
+	'email':['racenshoot2@gmail.com'],
 	'email_on_retry':False,
 	'email_on_failure':False,
 	'retries':1,
